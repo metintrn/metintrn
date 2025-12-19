@@ -1,5 +1,5 @@
 # 💫 About Me:
-International Trade student 🌍<br>Currently learning Python 🐍, SQL 📊, and C# ⚙️<br>Building skills in data analysis, reporting, and automation.<br>Goal: Develop projects to optimize foreign trade processes (customs, logistics, pricing) with technology
+International Trade student 🌍<br>Currently learning Python 🐍, SQL <br>Building skills in data analysis, reporting, and automation.<br>Goal: Develop projects to optimize foreign trade processes (customs, logistics, pricing) with technology
 
 
 ## 🌐 Socials:
